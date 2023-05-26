@@ -7,4 +7,6 @@
 
 💪🏼 Tools 
 
+<img src = https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#007ACC />
+
 🐱 About Me
