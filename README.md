@@ -10,3 +10,7 @@
 <img src = "https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#007ACC" />
 
 🐱 About Me
+
+I Want to learn JAVA AND I Want to be Java developer that manage the server
+
+thx
