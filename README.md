@@ -20,6 +20,6 @@ ALGORITM USING LANGUAGE JAVA
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndnjs5249)](https://solved.ac/wndnjs5249/) 
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-Won99&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-Won99&layout=compact)
 
 thx
