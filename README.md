@@ -11,7 +11,6 @@
 
 🐱 About Me
 
-Finally I Want to be Java developer that manage the server
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ju-Won99&show_icons=true&theme=radical)
 
