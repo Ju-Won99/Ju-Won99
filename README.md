@@ -23,6 +23,5 @@ ALGORITM USING LANGUAGE JAVA
 How many Using Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-Won99&layout=compact)](https://github.com/Ju-Won99/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-Won99&layout=compact)
 
 thx
